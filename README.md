@@ -1,1 +1,1 @@
-# Rasbperry-Pi-Pico-as-a-Rubber-Ducky
+# Raspberry-Pi-Pico-as-a-Rubber-Ducky
