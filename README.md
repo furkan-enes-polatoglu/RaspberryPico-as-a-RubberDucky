@@ -23,7 +23,8 @@ Pico'nun gizlilik amacıyla bir USB depolama aygıtı gibi görünmemesine istiy
 4) Pico'yu bilgisayarınızdan çıkarın. Pin 18 ve pin 20 arasına bir jumper kablosu bağlayın. Bu durum Pico üzerinde bir kısa devre yaratacaktır ve hedef bilgisayara takıldığında Pico'nun bir USB sürücüsü olarak görünmesini engelleyecek.
 5) Tekrar programlamak için (Payload'ınızı güncellemek için) jumper kabloyu çıkarın ve PC'nize yeniden bağlayın. Varsayılan modda, USB depolama aygıtı aktif durumda olacaktır.
 
-![1](https://user-images.githubusercontent.com/29992381/153208617-c2d5b4b5-4899-486d-9297-03bd02d4d3d8.jpg)
+![1](https://user-images.githubusercontent.com/29992381/153219218-98d55417-4d9f-45a9-bbdf-1d719625b41d.jpg)
+
 
 ## Klavye Düzenlerini Değiştirme
 
