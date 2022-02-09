@@ -10,7 +10,7 @@
 3) İndirdiğiniz .uf2 dosyasını Pico'nun (RPI-RP2) ana dizinine kopyalayın. Bir süre sonra cihaz yeniden başlayacak ve 1-2 saniye sonra CIRCUITPY adında çıkarılabilir bir medya aygıtı olarak karşınıza çıkacaktır.
 4) Ardından [adafruit-circuitpython-bundle-7.x-mpy-YYYYMMDD.zip](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) dosyasını indirin ve cihazın dışına çıkarın. 
 5) adafruit-circuitpython-bundle-7.x-mpy-YYYYMMDD klasörü altındaki "lib" klasörüne gidin ve "adafruit_hid'i" Raspberry Pi Pico'nuzdaki lib klasörüne kopyalayın.
-6) [Buradaki](https://raw.githubusercontent.com/dbisu/pico-ducky/main/duckyinpython.py) sayfaya giderek CTRL + S tuşlarına basın ve dosyayı Pico'nun içerisinde bulunan code.py dosyasının üzerine yazarak Raspberry Pi Pico'nun kök dizinine "code.py" olarak kaydedin.
+6) [Buradaki](https://raw.githubusercontent.com/dbisu/pico-ducky/main/duckyinpython.py) sayfaya giderek CTRL + S tuşlarına basın ve dosyayı Pico'nun içerisinde bulunan code.py dosyasının üzerine yazarak Raspberry Pi Pico'nun ana dizinine "code.py" olarak kaydedin.
 7) [Buradaki](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads) linkten bir script bulun veya kendi Rubber Ducky scriptinizi [oluşturun](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript) ve "payload.dd" olarak kaydedin.
 8) Dikkat edin, son işlemden sonra cihaz yeniden başlatılacak ve yarım saniye sonra komut dosyası (payload.dd) çalışacaktır.
 
