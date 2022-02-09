@@ -40,7 +40,7 @@ Varsayılan modda klavye düzeni İngilizce'dir. Bunu değiştirmek isterseniz;
 
 ## Dil Dosyanızı Kullanmak için Pico Kodunuzu Değiştirin
 
-1) Pico içerisindeki "code.py" dosyasını açın ve içerisindeki şu kodu;
+Pico içerisindeki "code.py" dosyasını açın ve içerisindeki şu kodu;
 ```python
 from adafruit_hid.keyboard_layout_us import KeyboardLayoutUS as KeyboardLayout
 from adafruit_hid.keycode import Keycode
