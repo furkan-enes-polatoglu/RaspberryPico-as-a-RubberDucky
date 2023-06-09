@@ -1,5 +1,3 @@
-https://github.com/iSECPartners/ios-ssl-kill-switch/releases/download/release-0.6/com.isecpartners.nabla.sslkillswitch_v0.6-iOS_7.0.deb
-
 # Raspberry-Pi-Pico-as-a-Rubber-Ducky 
 
 ![2022-02-09-16-58-32_Trim](https://user-images.githubusercontent.com/29992381/153216687-11a80cd9-38f5-4b8a-b247-9fe963997136.gif)
