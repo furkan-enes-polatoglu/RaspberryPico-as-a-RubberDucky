@@ -53,7 +53,8 @@ from keyboard_layout_win_tuq import KeyboardLayout
 from keycode_win_tuq import Keycode
 ```
 
-## Pico'nun Son Hali
+## Raspberry Pi Pico'nun Son Hali
+
 
 ![y-geometri-Ozel-Dortgenler-–-Eskenar-Dortgen-Dikdortgen-Kare-ve-Deltoid (1)](https://github.com/furkan-enes-polatoglu/RaspberryPico-as-a-RubberDucky/assets/29992381/91897a5c-c782-4774-9cdc-1f5e554f57ef)
 
